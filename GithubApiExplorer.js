@@ -231,8 +231,6 @@ function fetch_commits(owner, repo) {
       }
       console.log(res);
       for (var commit in res) {
-        console.log(commit);
-
         $("#commits_table tbody").append(
           "<tr><td>" +
             res[commit].commit.committer.date +

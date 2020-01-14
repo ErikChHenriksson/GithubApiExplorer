@@ -1,5 +1,4 @@
 <head>
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="GithubApiExplorer.js"></script>
     <link href="master.css" rel="stylesheet">
@@ -7,7 +6,6 @@
 
 <body>
     <section class="mainPage">
-
         <body>
             <header>
                 <div class="buttonarea">
